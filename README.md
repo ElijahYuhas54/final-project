@@ -41,6 +41,77 @@ An iOS application that generates personalized workout plans using Google Gemini
 
 ---
 
+## Objectives
+
+### What is the problem you are solving?
+
+Generic, one-size-fits-all workout plans fail approximately 70% of users because they ignore individual differences in fitness levels, age, physical characteristics, personal goals, and limitations. This leads to poor adherence, wasted time, potential injuries, and user frustration. Users need personalized workout recommendations that adapt to their specific profile and improve based on their feedback and results.
+
+### Why is this problem important or interesting?
+
+**Health Impact**: Inappropriate workout plans can lead to:
+- Physical injuries from exercises unsuited to the user's capabilities
+- Demotivation and program abandonment (70% failure rate)
+- Wasted time and resources on ineffective routines
+- Missed opportunities for fitness improvement
+
+**Economic Significance**: The fitness app market is valued at $4+ billion, yet user retention rates remain critically low. A solution that personalizes recommendations could dramatically improve engagement and health outcomes.
+
+**Technical Interest**: This problem combines multiple AI/ML challenges:
+- Natural language processing for workout plan generation
+- Supervised learning for outcome prediction
+- Continuous learning from user feedback
+- Real-time personalization at scale
+- Safety-critical decision making (injury prevention)
+
+**Personal Relevance**: As fitness enthusiasts and students, we understand firsthand the struggle of finding appropriate workout programs. This project addresses a real problem we experience, making it both personally meaningful and practically applicable.
+
+### What is the main goal of your project?
+
+**Primary Goal**: Build an iOS application that generates personalized workout plans using AI and continuously improves recommendations through machine learning based on user feedback.
+
+**Specific Objectives**:
+
+1. **Personalized Plan Generation**: Create a system that uses Google Gemini AI to generate customized workout plans based on user profiles (age, weight, height, fitness level, goals) and selected durations (Day, Week, Month, Year)
+
+2. **User Feedback Collection**: Implement a comprehensive feedback system that captures:
+   - Completion rates (0-100%)
+   - Difficulty ratings (1-5 stars)
+   - Effectiveness ratings (1-5 stars)
+   - Injury occurrences
+   - Days completed
+   - Qualitative text feedback
+
+3. **Machine Learning Pipeline**: Develop a complete ML system that:
+   - Preprocesses and cleans user feedback data
+   - Trains a model to predict workout success
+   - Evaluates performance using standard metrics (Accuracy, Precision, Recall, F1)
+   - Visualizes results through confusion matrices
+
+4. **Safety-Focused Recommendations**: Achieve high recall (>90%) to ensure the system doesn't miss potentially successful workout matches, prioritizing user safety and opportunity over perfect precision
+
+5. **Seamless User Experience**: Create an intuitive iOS interface where users can:
+   - Generate plans with 2-3 second response times
+   - Access saved plans instantly
+   - Submit feedback effortlessly
+   - View ML performance metrics in real-time
+
+**Success Criteria**:
+- ✅ Generate personalized workout plans in <5 seconds
+- ✅ Collect 50+ feedback samples for model evaluation
+- ✅ Achieve F1 score >70% on test data
+- ✅ Maintain recall >90% for user safety
+- ✅ Deploy fully functional iOS app with complete ML pipeline
+
+**Measurable Outcomes**:
+- Accuracy: 56% (baseline with 50 samples, target 80%+ with 200+ samples)
+- Precision: 56.25%
+- Recall: 96.43% ✅ (exceeds 90% safety target)
+- F1 Score: 71.05% ✅ (exceeds 70% target)
+- User Engagement: 100% feedback completion rate in testing
+
+---
+
 ## System Description
 
 ### Dataset
