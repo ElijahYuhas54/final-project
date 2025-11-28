@@ -11,7 +11,7 @@ An iOS application that generates personalized workout plans using Google Gemini
 **Project**: CAP 4630 - Intro to Artificial Intelligence
 **Institution**: Florida Atlantic University
 **Email**: [eyuhas2022@fau.edu]
-**Project Link**: [https://github.com/yourusername/workout-ai](https://github.com/yourusername/workout-ai)
+**Project Link**: https://github.com/ElijahYuhas54/final-project
 
 ---
 
