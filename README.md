@@ -16,7 +16,9 @@ An iOS application that generates personalized workout plans using Google Gemini
 ---
 
 ## Table of Contents
+- [Contact](#contact)
 - [Overview](#overview)
+- [Objectives](#objectives)
 - [System Description](#system-description)
 - [Methodology / Pipeline](#methodology--pipeline)
 - [Implementation Results](#implementation-results)
