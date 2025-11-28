@@ -1,0 +1,501 @@
+userId,workoutPlanId,age,weight,height,fitnessLevel,workoutDuration,completionRate,difficultyRating,effectivenessRating,injuryOccurred,daysCompleted,feedbackText,createdAt
+synthetic_user_5516,plan_19462,58,64.7,191.6,Advanced,Day,0.77,3,4,False,0,Some exercises too difficult,2025-07-23T23:13:03.691096
+synthetic_user_3185,plan_67717,28,111.3,179.6,Professional,Year,0.57,1,4,False,207,Good but could be better,2025-11-18T23:13:03.691126
+synthetic_user_6833,plan_90042,22,80.4,160.6,Professional,Year,0.54,2,3,False,198,Good but could be better,2025-11-06T23:13:03.691137
+synthetic_user_8582,plan_11993,42,53.5,169.5,Professional,Month,0.71,2,4,False,21,Good but could be better,2025-10-18T23:13:03.691148
+synthetic_user_3429,plan_49426,38,107.6,180.6,Beginner,Month,0.48,5,2,False,14,Too difficult for my level,2025-08-12T23:13:03.691157
+synthetic_user_2376,plan_25709,58,109.4,155.2,Professional,Day,0.84,1,4,False,0,Challenging but doable,2025-11-12T23:13:03.691168
+synthetic_user_673,plan_49344,51,76.1,191.3,Advanced,Day,1.0,4,5,False,1,Perfect difficulty level,2025-11-06T23:13:03.691177
+synthetic_user_9208,plan_33417,63,112.9,164.6,Intermediate,Week,0.62,2,3,False,4,Some exercises too difficult,2025-08-12T23:13:03.691186
+synthetic_user_7710,plan_38572,35,51.2,186.7,Beginner,Month,0.25,3,3,False,7,Too difficult for my level,2025-09-21T23:13:03.691199
+synthetic_user_6119,plan_92185,40,95.1,161.5,Intermediate,Month,0.4,2,4,False,12,Too difficult for my level,2025-06-03T23:13:03.691208
+synthetic_user_9627,plan_91215,31,67.7,164.0,Professional,Year,0.64,2,3,False,234,Good but could be better,2025-10-29T23:13:03.691218
+synthetic_user_1540,plan_77053,60,110.6,168.4,Advanced,Day,0.74,4,3,False,0,Partially completed,2025-08-20T23:13:03.691227
+synthetic_user_951,plan_53093,18,52.5,176.4,Professional,Week,0.67,1,3,False,4,Good but could be better,2025-10-24T23:13:03.691236
+synthetic_user_7581,plan_70599,27,97.7,153.7,Intermediate,Week,0.68,2,4,False,4,Good but could be better,2025-10-12T23:13:03.691245
+synthetic_user_8333,plan_98654,29,71.1,177.7,Beginner,Day,0.63,3,5,False,0,Good but could be better,2025-08-23T23:13:03.691254
+synthetic_user_3709,plan_63822,65,63.3,165.5,Beginner,Week,0.47,5,3,False,3,Too difficult for my level,2025-09-08T23:13:03.691264
+synthetic_user_3890,plan_33870,31,99.3,167.3,Professional,Week,0.66,2,5,False,4,Partially completed,2025-10-04T23:13:03.691272
+synthetic_user_4228,plan_12238,55,81.9,168.5,Intermediate,Week,0.86,4,5,False,6,Challenging but doable,2025-08-03T23:13:03.691281
+synthetic_user_3794,plan_16873,29,104.8,167.9,Beginner,Month,0.43,5,4,False,13,Time commitment too high,2025-05-30T23:13:03.691290
+synthetic_user_5595,plan_28679,37,56.4,168.5,Beginner,Month,0.54,5,2,False,16,Good but could be better,2025-11-24T23:13:03.691299
+synthetic_user_6057,plan_69644,53,70.8,185.9,Beginner,Month,0.51,3,3,True,15,Experienced joint pain,2025-06-23T23:13:03.691309
+synthetic_user_8106,plan_22796,48,71.2,196.5,Beginner,Week,0.61,4,4,False,4,Good but could be better,2025-07-13T23:13:03.691318
+synthetic_user_8203,plan_98303,21,112.6,197.4,Advanced,Year,0.57,3,4,False,207,Needed more rest days,2025-09-20T23:13:03.691327
+synthetic_user_9972,plan_30961,35,55.2,161.8,Advanced,Year,0.69,2,3,False,251,Needed more rest days,2025-07-14T23:13:03.691336
+synthetic_user_1901,plan_29027,45,69.5,151.8,Intermediate,Week,0.63,4,5,False,4,Good but could be better,2025-09-09T23:13:03.691345
+synthetic_user_2586,plan_87703,45,92.5,197.1,Intermediate,Week,0.71,4,3,False,4,Needed more rest days,2025-06-13T23:13:03.691354
+synthetic_user_1386,plan_86512,40,52.2,153.4,Intermediate,Year,0.64,4,5,False,234,Partially completed,2025-09-04T23:13:03.691363
+synthetic_user_6648,plan_79949,32,105.9,180.6,Beginner,Year,0.2,4,1,False,73,Time commitment too high,2025-07-12T23:13:03.691373
+synthetic_user_7385,plan_18028,25,54.5,191.9,Advanced,Day,0.85,3,5,False,0,Perfect difficulty level,2025-06-29T23:13:03.691382
+synthetic_user_5832,plan_30570,23,117.4,156.9,Professional,Week,0.7,2,4,False,4,Partially completed,2025-09-14T23:13:03.691391
+synthetic_user_6678,plan_14819,55,96.8,166.1,Beginner,Year,0.2,4,3,False,74,Need easier alternatives,2025-09-12T23:13:03.691400
+synthetic_user_998,plan_72126,56,58.5,167.8,Professional,Day,1.0,2,4,False,1,"Great workout, felt amazing!",2025-09-03T23:13:03.691408
+synthetic_user_8774,plan_10446,59,104.6,168.3,Advanced,Day,0.88,4,4,False,0,Perfect difficulty level,2025-11-04T23:13:03.691418
+synthetic_user_4743,plan_64278,59,67.9,157.5,Beginner,Month,0.28,3,3,True,8,Had to stop due to injury,2025-07-02T23:13:03.691427
+synthetic_user_5438,plan_45881,25,73.3,155.7,Intermediate,Month,0.46,4,3,False,13,Too difficult for my level,2025-11-08T23:13:03.691435
+synthetic_user_630,plan_42796,61,112.7,162.5,Intermediate,Year,0.4,3,3,False,146,Time commitment too high,2025-07-24T23:13:03.691445
+synthetic_user_1088,plan_93088,58,55.9,188.1,Intermediate,Week,0.74,3,4,False,5,Needed more rest days,2025-08-07T23:13:03.691453
+synthetic_user_405,plan_37574,52,55.7,193.6,Professional,Month,0.44,1,2,False,13,Need easier alternatives,2025-08-31T23:13:03.691464
+synthetic_user_825,plan_34312,48,94.9,192.5,Professional,Month,0.86,1,4,False,25,Would recommend to others,2025-06-17T23:13:03.691473
+synthetic_user_337,plan_14607,52,106.0,176.9,Advanced,Day,0.85,2,5,False,0,Seeing great results,2025-06-06T23:13:03.691482
+synthetic_user_8299,plan_12113,58,60.0,187.5,Beginner,Month,0.41,5,4,False,12,Could not maintain schedule,2025-11-14T23:13:03.691491
+synthetic_user_3215,plan_38060,64,100.2,153.5,Beginner,Week,0.5,5,2,False,3,Could not maintain schedule,2025-08-14T23:13:03.691500
+synthetic_user_6158,plan_83965,60,119.9,151.8,Advanced,Week,0.79,4,3,False,5,Partially completed,2025-08-28T23:13:03.691509
+synthetic_user_5910,plan_36904,38,65.8,177.6,Professional,Month,0.64,2,5,False,19,Partially completed,2025-11-20T23:13:03.691518
+synthetic_user_9558,plan_96081,59,65.2,196.3,Beginner,Year,0.3,3,1,False,108,Too difficult for my level,2025-10-18T23:13:03.691527
+synthetic_user_3184,plan_58275,22,89.3,166.1,Advanced,Week,0.72,4,3,False,5,Good but could be better,2025-11-22T23:13:03.691536
+synthetic_user_7835,plan_79801,57,102.0,189.7,Intermediate,Day,0.77,2,3,False,0,Good but could be better,2025-11-05T23:13:03.691545
+synthetic_user_1563,plan_86625,51,78.6,164.7,Beginner,Day,0.72,5,4,False,0,Partially completed,2025-11-09T23:13:03.691554
+synthetic_user_8527,plan_78790,34,81.7,156.7,Beginner,Day,0.6,3,4,False,0,Needed more rest days,2025-10-06T23:13:03.691564
+synthetic_user_6265,plan_14514,36,73.2,173.9,Professional,Month,0.68,1,3,False,20,Partially completed,2025-10-19T23:13:03.691573
+synthetic_user_6062,plan_7550,39,102.5,150.4,Beginner,Week,0.61,4,4,False,4,Good but could be better,2025-11-07T23:13:03.691582
+synthetic_user_5780,plan_75752,65,55.6,180.4,Advanced,Week,0.86,4,5,False,6,Perfect difficulty level,2025-10-28T23:13:03.691591
+synthetic_user_414,plan_92143,28,85.7,192.1,Professional,Day,0.94,2,5,False,0,Perfect difficulty level,2025-08-27T23:13:03.691600
+synthetic_user_5483,plan_49582,44,96.2,191.0,Intermediate,Month,0.57,3,2,False,16,Partially completed,2025-10-05T23:13:03.691609
+synthetic_user_6288,plan_89644,44,99.2,196.7,Intermediate,Year,0.51,4,4,False,186,Needed more rest days,2025-07-25T23:13:03.691618
+synthetic_user_9650,plan_27872,20,111.0,155.9,Intermediate,Day,0.83,4,5,False,0,Would recommend to others,2025-07-16T23:13:03.691627
+synthetic_user_1602,plan_12225,39,97.3,184.3,Professional,Week,0.85,3,5,False,5,"Great workout, felt amazing!",2025-08-31T23:13:03.691636
+synthetic_user_1903,plan_91196,44,52.7,173.4,Beginner,Month,0.32,5,2,False,9,Could not maintain schedule,2025-07-31T23:13:03.691645
+synthetic_user_7132,plan_90243,29,75.4,193.4,Advanced,Week,0.83,2,5,False,5,Perfect difficulty level,2025-07-05T23:13:03.691654
+synthetic_user_1640,plan_99237,41,67.0,158.0,Beginner,Week,0.57,4,2,False,3,Good but could be better,2025-09-04T23:13:03.691663
+synthetic_user_2224,plan_32539,52,95.8,182.8,Advanced,Month,0.79,4,5,False,23,Good but could be better,2025-07-01T23:13:03.691673
+synthetic_user_2844,plan_85168,23,65.2,181.2,Beginner,Year,0.26,5,3,False,94,Time commitment too high,2025-07-10T23:13:03.691681
+synthetic_user_8556,plan_78687,61,106.1,150.6,Intermediate,Week,0.58,4,4,True,4,Had to stop due to injury,2025-09-13T23:13:03.691690
+synthetic_user_6173,plan_48755,39,104.9,176.7,Intermediate,Week,0.63,4,3,False,4,Good but could be better,2025-07-16T23:13:03.691700
+synthetic_user_6550,plan_70005,30,107.8,186.2,Advanced,Day,0.92,2,5,False,0,Challenging but doable,2025-11-13T23:13:03.691708
+synthetic_user_2972,plan_45077,43,52.3,177.0,Beginner,Week,0.65,4,5,False,4,Partially completed,2025-10-04T23:13:03.691719
+synthetic_user_1911,plan_11569,22,110.4,180.5,Professional,Day,0.76,1,5,False,0,Needed more rest days,2025-07-03T23:13:03.691728
+synthetic_user_7243,plan_90532,49,107.8,188.0,Beginner,Week,0.65,5,4,False,4,Some exercises too difficult,2025-11-04T23:13:03.691737
+synthetic_user_3716,plan_85830,60,105.3,175.3,Professional,Day,0.8,1,5,False,0,Challenging but doable,2025-10-05T23:13:03.691746
+synthetic_user_2099,plan_54435,28,90.1,150.3,Beginner,Week,0.61,5,5,False,4,Partially completed,2025-09-10T23:13:03.691755
+synthetic_user_1015,plan_32379,54,115.7,178.1,Intermediate,Week,0.5,3,4,False,3,Some exercises too difficult,2025-08-20T23:13:03.691764
+synthetic_user_8888,plan_63116,47,81.0,172.4,Advanced,Week,1.0,4,5,False,7,Challenging but doable,2025-08-29T23:13:03.691772
+synthetic_user_7200,plan_51621,52,75.8,181.4,Intermediate,Year,0.43,3,3,False,156,Need easier alternatives,2025-11-10T23:13:03.691781
+synthetic_user_2163,plan_66900,35,119.8,169.4,Beginner,Day,0.5,4,3,False,0,Good but could be better,2025-08-21T23:13:03.691790
+synthetic_user_9413,plan_94838,57,98.8,177.5,Intermediate,Week,0.56,3,2,False,3,Good but could be better,2025-10-31T23:13:03.691800
+synthetic_user_8789,plan_67192,50,98.9,196.2,Advanced,Day,0.87,3,5,False,0,Challenging but doable,2025-06-11T23:13:03.691809
+synthetic_user_2818,plan_81985,58,114.1,165.9,Professional,Week,0.69,3,4,False,4,Some exercises too difficult,2025-07-31T23:13:03.691818
+synthetic_user_9371,plan_55991,48,95.7,179.0,Advanced,Year,0.62,4,3,False,226,Good but could be better,2025-09-17T23:13:03.691828
+synthetic_user_1640,plan_37188,22,100.9,152.1,Advanced,Week,0.82,2,5,False,5,Seeing great results,2025-11-15T23:13:03.691837
+synthetic_user_4142,plan_74776,21,110.4,160.3,Professional,Day,0.88,3,5,False,0,"Great workout, felt amazing!",2025-08-10T23:13:03.691846
+synthetic_user_8285,plan_97125,32,89.7,157.4,Professional,Day,1.0,2,4,False,1,"Great workout, felt amazing!",2025-07-09T23:13:03.691855
+synthetic_user_8968,plan_92642,40,71.2,184.4,Professional,Day,0.98,1,5,False,0,Challenging but doable,2025-05-28T23:13:03.691864
+synthetic_user_2891,plan_59641,28,50.5,198.1,Advanced,Day,0.86,3,5,False,0,Would recommend to others,2025-06-20T23:13:03.691874
+synthetic_user_736,plan_88777,55,119.4,194.5,Advanced,Month,0.61,3,5,False,18,Some exercises too difficult,2025-10-10T23:13:03.691883
+synthetic_user_2179,plan_22333,38,116.5,172.3,Professional,Week,0.68,2,3,False,4,Good but could be better,2025-10-16T23:13:03.691892
+synthetic_user_60,plan_71879,42,101.2,175.6,Advanced,Week,0.81,3,5,False,5,"Great workout, felt amazing!",2025-10-20T23:13:03.691900
+synthetic_user_2970,plan_89043,34,54.4,165.3,Professional,Year,0.49,2,2,False,178,Need easier alternatives,2025-11-11T23:13:03.691909
+synthetic_user_8760,plan_46028,27,69.0,177.5,Intermediate,Month,0.66,2,4,False,19,Some exercises too difficult,2025-09-19T23:13:03.691919
+synthetic_user_6661,plan_93552,37,115.2,194.4,Beginner,Month,0.31,5,2,False,9,Need easier alternatives,2025-09-24T23:13:03.691928
+synthetic_user_9770,plan_78130,39,82.9,179.5,Beginner,Month,0.57,4,4,True,17,Not suitable for my level,2025-08-07T23:13:03.691937
+synthetic_user_7296,plan_29388,62,89.0,199.5,Professional,Day,0.98,3,5,False,0,Perfect difficulty level,2025-10-13T23:13:03.691946
+synthetic_user_6460,plan_68450,22,77.6,158.5,Advanced,Year,0.33,4,1,False,118,Need easier alternatives,2025-08-29T23:13:03.691955
+synthetic_user_3449,plan_91032,57,76.6,160.3,Professional,Week,0.94,2,4,False,6,Perfect difficulty level,2025-07-14T23:13:03.691966
+synthetic_user_6482,plan_81277,29,68.7,168.1,Advanced,Month,0.7,4,3,False,20,Good but could be better,2025-11-11T23:13:03.691975
+synthetic_user_742,plan_72869,32,77.0,170.2,Intermediate,Week,0.85,2,4,True,5,"Too intense, caused pain",2025-06-08T23:13:03.691984
+synthetic_user_9904,plan_25998,55,112.0,183.5,Professional,Week,0.71,3,3,False,4,Good but could be better,2025-07-27T23:13:03.691993
+synthetic_user_1866,plan_84724,47,118.4,181.9,Intermediate,Month,0.62,3,4,False,18,Partially completed,2025-08-16T23:13:03.692002
+synthetic_user_467,plan_56882,27,83.4,160.6,Intermediate,Week,0.61,4,5,False,4,Good but could be better,2025-11-10T23:13:03.692011
+synthetic_user_6750,plan_91658,51,117.1,158.0,Advanced,Year,0.33,2,1,False,119,Could not maintain schedule,2025-09-29T23:13:03.692020
+synthetic_user_4477,plan_6473,64,56.4,176.9,Professional,Month,0.68,2,3,True,20,"Too intense, caused pain",2025-09-21T23:13:03.692029
+synthetic_user_9050,plan_10894,61,83.5,152.3,Intermediate,Year,0.22,2,1,False,80,Need easier alternatives,2025-07-27T23:13:03.692044
+synthetic_user_7716,plan_69288,34,70.8,174.3,Beginner,Month,0.49,3,3,True,14,Had to stop due to injury,2025-09-02T23:13:03.692053
+synthetic_user_4144,plan_60748,54,66.2,186.9,Beginner,Day,0.8,3,5,False,0,Perfect difficulty level,2025-09-16T23:13:03.692062
+synthetic_user_9645,plan_93790,22,85.5,184.6,Advanced,Week,0.94,4,5,False,6,Perfect difficulty level,2025-08-26T23:13:03.692071
+synthetic_user_9192,plan_21254,23,61.1,184.4,Intermediate,Day,0.77,4,4,False,0,Needed more rest days,2025-10-03T23:13:03.692080
+synthetic_user_394,plan_9582,45,99.2,182.9,Professional,Day,1.0,3,5,False,1,Challenging but doable,2025-10-28T23:13:03.692089
+synthetic_user_4570,plan_28536,61,115.4,156.1,Professional,Week,0.66,3,3,False,4,Some exercises too difficult,2025-09-12T23:13:03.692097
+synthetic_user_3024,plan_83327,34,100.9,171.5,Intermediate,Week,0.65,4,3,False,4,Good but could be better,2025-11-16T23:13:03.692106
+synthetic_user_698,plan_54201,34,78.7,181.3,Professional,Year,0.63,3,5,True,231,Experienced joint pain,2025-06-04T23:13:03.692115
+synthetic_user_4176,plan_91108,43,100.2,156.3,Advanced,Year,0.57,4,4,False,207,Partially completed,2025-09-03T23:13:03.692124
+synthetic_user_8463,plan_1547,59,90.4,181.2,Intermediate,Year,0.39,4,3,False,141,Time commitment too high,2025-07-30T23:13:03.692134
+synthetic_user_4346,plan_43760,50,110.1,175.2,Advanced,Week,0.66,2,3,False,4,Partially completed,2025-07-13T23:13:03.692143
+synthetic_user_4884,plan_92345,33,103.2,178.8,Intermediate,Year,0.37,3,3,False,136,Could not maintain schedule,2025-11-16T23:13:03.692151
+synthetic_user_3938,plan_82209,57,111.8,189.8,Professional,Year,0.48,3,2,False,174,Need easier alternatives,2025-06-29T23:13:03.692161
+synthetic_user_9125,plan_51714,42,55.7,158.2,Beginner,Week,0.8,5,4,False,5,Partially completed,2025-07-16T23:13:03.692170
+synthetic_user_4764,plan_64135,54,62.0,173.2,Professional,Month,0.7,1,4,False,21,Needed more rest days,2025-09-03T23:13:03.692179
+synthetic_user_3169,plan_27277,21,90.5,162.0,Advanced,Day,0.94,3,4,False,0,Perfect difficulty level,2025-11-04T23:13:03.692188
+synthetic_user_1509,plan_32940,50,117.2,176.6,Beginner,Month,0.51,5,3,False,15,Good but could be better,2025-08-25T23:13:03.692198
+synthetic_user_2328,plan_66755,26,100.4,168.0,Beginner,Year,0.19,3,3,False,69,Could not maintain schedule,2025-06-23T23:13:03.692206
+synthetic_user_8668,plan_29149,64,77.4,178.4,Intermediate,Day,0.95,4,4,True,0,Experienced joint pain,2025-07-02T23:13:03.692215
+synthetic_user_7543,plan_83171,45,63.9,189.9,Advanced,Day,0.93,4,5,False,0,Seeing great results,2025-10-12T23:13:03.692224
+synthetic_user_8355,plan_91362,32,96.2,180.8,Advanced,Month,0.78,4,3,False,23,Needed more rest days,2025-07-18T23:13:03.692234
+synthetic_user_9261,plan_97547,30,102.4,191.9,Advanced,Week,0.82,3,5,False,5,Would recommend to others,2025-07-24T23:13:03.692243
+synthetic_user_8048,plan_69607,62,101.9,165.3,Intermediate,Week,0.64,4,4,False,4,Needed more rest days,2025-07-22T23:13:03.692252
+synthetic_user_656,plan_62108,23,95.0,190.6,Professional,Day,0.83,2,5,True,0,Not suitable for my level,2025-08-02T23:13:03.692261
+synthetic_user_3109,plan_63322,22,53.1,197.8,Intermediate,Month,0.46,2,4,False,13,Time commitment too high,2025-08-28T23:13:03.692270
+synthetic_user_6089,plan_10457,32,119.7,178.9,Beginner,Year,0.14,5,2,False,49,Need easier alternatives,2025-06-28T23:13:03.692279
+synthetic_user_1667,plan_14217,37,115.0,168.8,Intermediate,Week,0.76,2,5,False,5,Partially completed,2025-06-05T23:13:03.692288
+synthetic_user_4716,plan_19529,42,106.9,189.2,Beginner,Year,0.29,3,3,False,105,Need easier alternatives,2025-10-16T23:13:03.692298
+synthetic_user_4961,plan_86750,33,112.1,171.5,Intermediate,Month,0.46,4,3,False,13,Time commitment too high,2025-10-06T23:13:03.692307
+synthetic_user_2293,plan_47354,57,102.1,189.5,Beginner,Month,0.32,5,1,False,9,Too difficult for my level,2025-11-16T23:13:03.692316
+synthetic_user_3979,plan_60119,19,57.2,159.0,Advanced,Year,0.65,4,3,False,237,Good but could be better,2025-09-11T23:13:03.692325
+synthetic_user_6310,plan_48849,54,101.1,154.2,Advanced,Year,0.37,3,2,False,134,Need easier alternatives,2025-07-16T23:13:03.692334
+synthetic_user_2791,plan_80511,25,96.9,198.7,Professional,Day,0.93,1,5,False,0,Seeing great results,2025-09-30T23:13:03.692343
+synthetic_user_7377,plan_73651,19,59.0,184.9,Beginner,Week,0.6,4,3,False,4,Partially completed,2025-06-06T23:13:03.692352
+synthetic_user_3012,plan_3995,38,114.1,181.0,Beginner,Year,0.3,5,2,False,108,Could not maintain schedule,2025-06-02T23:13:03.692361
+synthetic_user_2442,plan_84041,47,110.3,169.1,Advanced,Day,0.93,4,5,False,0,Perfect difficulty level,2025-06-11T23:13:03.692371
+synthetic_user_2276,plan_18910,57,78.6,174.1,Beginner,Week,0.42,3,2,False,2,Too difficult for my level,2025-08-10T23:13:03.692380
+synthetic_user_9472,plan_76615,37,53.9,160.8,Professional,Month,0.77,3,3,False,23,Some exercises too difficult,2025-11-20T23:13:03.692389
+synthetic_user_6884,plan_55130,56,103.7,176.9,Intermediate,Year,0.42,4,3,False,155,Need easier alternatives,2025-09-25T23:13:03.692398
+synthetic_user_1328,plan_47480,19,68.6,156.7,Advanced,Week,0.72,3,4,False,5,Some exercises too difficult,2025-10-19T23:13:03.692406
+synthetic_user_349,plan_8637,32,106.8,196.3,Advanced,Month,0.9,3,4,False,26,"Great workout, felt amazing!",2025-08-14T23:13:03.692415
+synthetic_user_8297,plan_68597,64,101.1,153.5,Professional,Week,0.86,1,4,False,5,Would recommend to others,2025-08-02T23:13:03.692424
+synthetic_user_5993,plan_97509,60,115.6,199.1,Advanced,Day,0.86,4,4,True,0,Had to stop due to injury,2025-06-16T23:13:03.692433
+synthetic_user_1849,plan_85993,58,72.1,160.6,Beginner,Week,0.52,5,3,False,3,Partially completed,2025-09-15T23:13:03.692442
+synthetic_user_3893,plan_78450,56,64.1,181.0,Professional,Year,0.39,3,2,False,143,Could not maintain schedule,2025-06-27T23:13:03.692451
+synthetic_user_736,plan_85252,37,61.9,190.6,Advanced,Month,0.59,2,2,False,17,Partially completed,2025-09-27T23:13:03.692460
+synthetic_user_6407,plan_99832,19,109.5,189.5,Intermediate,Month,0.56,3,3,False,16,Needed more rest days,2025-10-10T23:13:03.692469
+synthetic_user_6505,plan_40263,51,52.4,156.6,Beginner,Week,0.54,4,3,False,3,Some exercises too difficult,2025-09-13T23:13:03.692478
+synthetic_user_5968,plan_98869,61,104.8,179.5,Beginner,Month,0.25,3,2,True,7,Not suitable for my level,2025-05-29T23:13:03.692487
+synthetic_user_3294,plan_96225,37,114.0,194.7,Beginner,Day,0.73,3,5,False,0,Needed more rest days,2025-09-06T23:13:03.692498
+synthetic_user_6115,plan_83774,51,109.2,185.8,Professional,Week,0.79,2,4,False,5,Needed more rest days,2025-06-21T23:13:03.692507
+synthetic_user_8376,plan_20876,42,112.4,193.4,Advanced,Month,0.76,4,3,False,22,Partially completed,2025-07-22T23:13:03.692516
+synthetic_user_5555,plan_86866,30,100.8,150.3,Advanced,Month,0.54,3,2,False,16,Good but could be better,2025-08-16T23:13:03.692525
+synthetic_user_1789,plan_48207,46,64.1,191.1,Advanced,Year,0.39,4,3,False,142,Could not maintain schedule,2025-08-03T23:13:03.692534
+synthetic_user_3829,plan_57920,46,118.2,157.2,Advanced,Month,0.69,2,3,False,20,Good but could be better,2025-09-21T23:13:03.692543
+synthetic_user_1916,plan_99673,36,112.0,199.0,Advanced,Month,0.87,4,5,False,26,Seeing great results,2025-07-19T23:13:03.692552
+synthetic_user_1124,plan_61607,43,63.5,196.8,Beginner,Week,0.5,4,3,True,3,Had to stop due to injury,2025-08-24T23:13:03.692561
+synthetic_user_3221,plan_71376,37,116.3,182.8,Beginner,Day,0.54,4,4,False,0,Good but could be better,2025-08-12T23:13:03.692570
+synthetic_user_2286,plan_78687,50,88.9,188.8,Professional,Month,0.68,1,4,False,20,Partially completed,2025-09-10T23:13:03.692579
+synthetic_user_5605,plan_51628,53,102.9,163.3,Advanced,Month,0.49,4,4,False,14,Time commitment too high,2025-07-18T23:13:03.692588
+synthetic_user_5311,plan_5854,48,110.3,184.7,Beginner,Week,0.52,5,4,False,3,Needed more rest days,2025-08-29T23:13:03.692597
+synthetic_user_2615,plan_11051,63,67.2,160.8,Advanced,Day,0.81,2,5,False,0,Would recommend to others,2025-06-29T23:13:03.692606
+synthetic_user_3227,plan_9242,50,91.4,192.7,Professional,Week,1.0,1,4,False,7,Would recommend to others,2025-06-03T23:13:03.692615
+synthetic_user_7763,plan_36851,23,59.4,152.4,Intermediate,Week,0.71,3,3,False,4,Partially completed,2025-06-24T23:13:03.692624
+synthetic_user_9871,plan_24100,56,80.7,188.0,Intermediate,Month,0.48,4,4,False,14,Time commitment too high,2025-08-13T23:13:03.692633
+synthetic_user_4979,plan_35586,23,80.1,173.3,Professional,Year,0.56,3,4,False,204,Good but could be better,2025-06-15T23:13:03.692642
+synthetic_user_3173,plan_20508,48,58.9,166.2,Advanced,Month,0.79,3,5,False,23,Partially completed,2025-07-14T23:13:03.692651
+synthetic_user_2424,plan_41740,25,88.9,178.4,Beginner,Day,0.76,4,5,False,0,Partially completed,2025-06-24T23:13:03.692660
+synthetic_user_1169,plan_92634,31,52.5,191.0,Advanced,Year,0.6,2,3,False,220,Needed more rest days,2025-10-26T23:13:03.692669
+synthetic_user_6255,plan_50566,64,93.2,167.8,Intermediate,Year,0.39,2,1,False,141,Need easier alternatives,2025-06-05T23:13:03.692679
+synthetic_user_5127,plan_62419,29,78.3,188.9,Intermediate,Day,0.86,3,5,False,0,"Great workout, felt amazing!",2025-07-18T23:13:03.692688
+synthetic_user_2465,plan_46191,45,76.3,175.7,Intermediate,Week,0.85,3,5,False,5,Challenging but doable,2025-06-27T23:13:03.692697
+synthetic_user_6015,plan_95477,35,82.7,160.2,Intermediate,Day,0.9,3,5,False,0,Seeing great results,2025-10-28T23:13:03.692706
+synthetic_user_7690,plan_53041,54,87.7,159.5,Beginner,Month,0.3,5,1,False,8,Time commitment too high,2025-11-03T23:13:03.692715
+synthetic_user_5642,plan_82419,37,101.5,195.1,Beginner,Year,0.2,4,1,False,73,Too difficult for my level,2025-08-12T23:13:03.692724
+synthetic_user_1969,plan_98077,29,116.1,180.9,Advanced,Day,0.77,3,5,False,0,Some exercises too difficult,2025-10-17T23:13:03.692733
+synthetic_user_3104,plan_41055,30,59.8,184.9,Beginner,Week,0.66,5,3,False,4,Good but could be better,2025-09-27T23:13:03.692742
+synthetic_user_528,plan_18380,55,94.1,173.8,Beginner,Day,0.58,5,2,False,0,Some exercises too difficult,2025-06-20T23:13:03.692752
+synthetic_user_6656,plan_5721,31,58.3,154.5,Professional,Month,0.64,2,4,False,19,Some exercises too difficult,2025-07-11T23:13:03.692761
+synthetic_user_4672,plan_7016,29,96.6,183.8,Advanced,Day,1.0,2,5,False,1,Seeing great results,2025-08-27T23:13:03.692770
+synthetic_user_9489,plan_99093,32,64.2,186.6,Intermediate,Week,0.6,3,4,False,4,Needed more rest days,2025-11-10T23:13:03.692779
+synthetic_user_4354,plan_45209,49,120.0,168.9,Professional,Day,1.0,2,4,False,1,Seeing great results,2025-08-20T23:13:03.692788
+synthetic_user_8066,plan_55268,22,83.8,198.0,Beginner,Year,0.32,5,2,False,116,Time commitment too high,2025-11-08T23:13:03.692797
+synthetic_user_2439,plan_19662,32,73.1,183.7,Advanced,Year,0.54,4,2,False,196,Some exercises too difficult,2025-10-14T23:13:03.692806
+synthetic_user_8072,plan_64134,64,56.6,184.6,Intermediate,Year,0.35,4,2,False,128,Need easier alternatives,2025-10-20T23:13:03.692815
+synthetic_user_5386,plan_89236,59,83.7,150.6,Intermediate,Year,0.36,3,2,False,131,Time commitment too high,2025-08-14T23:13:03.692824
+synthetic_user_583,plan_49499,34,89.4,167.4,Intermediate,Month,0.57,3,3,False,17,Good but could be better,2025-08-05T23:13:03.692833
+synthetic_user_9864,plan_2714,19,113.8,188.8,Advanced,Day,0.74,2,5,False,0,Good but could be better,2025-06-28T23:13:03.692841
+synthetic_user_6567,plan_64291,61,59.8,165.8,Intermediate,Year,0.49,2,4,False,177,Time commitment too high,2025-10-31T23:13:03.692851
+synthetic_user_6686,plan_49438,58,58.7,174.9,Advanced,Week,0.87,4,5,False,6,Challenging but doable,2025-08-08T23:13:03.692859
+synthetic_user_8372,plan_46218,34,92.6,150.1,Advanced,Month,0.66,2,3,False,19,Needed more rest days,2025-08-23T23:13:03.692869
+synthetic_user_5464,plan_22304,54,79.9,169.9,Professional,Week,0.68,2,5,False,4,Partially completed,2025-07-28T23:13:03.692877
+synthetic_user_3283,plan_71558,38,68.8,162.8,Intermediate,Week,0.94,2,4,False,6,Challenging but doable,2025-10-12T23:13:03.692886
+synthetic_user_7219,plan_56871,62,76.5,183.1,Beginner,Month,0.55,4,3,False,16,Good but could be better,2025-11-14T23:13:03.692895
+synthetic_user_5931,plan_77408,40,114.0,167.6,Beginner,Week,0.61,4,4,False,4,Partially completed,2025-11-22T23:13:03.692904
+synthetic_user_1231,plan_71918,48,101.3,165.7,Advanced,Week,0.68,2,4,False,4,Good but could be better,2025-09-08T23:13:03.692913
+synthetic_user_4685,plan_48422,51,60.5,196.3,Beginner,Week,0.4,4,1,False,2,Time commitment too high,2025-06-06T23:13:03.692922
+synthetic_user_1955,plan_13365,37,80.9,158.1,Beginner,Week,0.68,5,5,False,4,Partially completed,2025-08-17T23:13:03.692930
+synthetic_user_8269,plan_16509,23,78.4,155.9,Beginner,Year,0.1,5,2,False,36,Time commitment too high,2025-06-29T23:13:03.692939
+synthetic_user_8965,plan_23040,54,98.0,151.7,Advanced,Month,0.63,4,3,False,19,Partially completed,2025-09-14T23:13:03.692952
+synthetic_user_3860,plan_312,63,91.6,185.3,Advanced,Year,0.59,4,2,False,213,Good but could be better,2025-11-23T23:13:03.692961
+synthetic_user_5404,plan_6601,64,54.7,176.2,Beginner,Month,0.25,4,1,True,7,"Too intense, caused pain",2025-08-26T23:13:03.692970
+synthetic_user_1240,plan_10894,26,65.1,177.8,Advanced,Year,0.68,4,3,False,249,Good but could be better,2025-10-31T23:13:03.692979
+synthetic_user_5366,plan_96408,41,117.5,185.5,Beginner,Week,0.54,5,4,False,3,Good but could be better,2025-08-18T23:13:03.692987
+synthetic_user_8759,plan_2596,55,51.9,152.7,Professional,Week,0.97,2,4,False,6,Seeing great results,2025-08-09T23:13:03.692996
+synthetic_user_8074,plan_48503,59,75.9,196.7,Professional,Month,0.73,3,5,False,21,Some exercises too difficult,2025-07-02T23:13:03.693007
+synthetic_user_2191,plan_40935,49,101.9,153.0,Advanced,Year,0.61,4,4,False,223,Some exercises too difficult,2025-11-08T23:13:03.693016
+synthetic_user_2762,plan_44889,39,92.2,174.9,Professional,Year,0.55,3,3,False,201,Needed more rest days,2025-08-24T23:13:03.693025
+synthetic_user_7984,plan_21757,48,118.8,193.0,Advanced,Month,0.54,4,2,False,16,Partially completed,2025-07-10T23:13:03.693033
+synthetic_user_8478,plan_5762,18,98.3,169.4,Beginner,Day,0.55,4,3,False,0,Partially completed,2025-08-22T23:13:03.693042
+synthetic_user_1765,plan_99228,38,71.7,164.6,Advanced,Year,0.47,3,4,False,171,Need easier alternatives,2025-07-05T23:13:03.693051
+synthetic_user_7108,plan_6490,18,78.9,174.4,Advanced,Month,0.68,4,5,False,20,Partially completed,2025-10-27T23:13:03.693060
+synthetic_user_2714,plan_75262,58,110.7,198.3,Intermediate,Day,0.84,3,4,True,0,"Too intense, caused pain",2025-07-23T23:13:03.693068
+synthetic_user_4963,plan_8375,42,62.7,153.9,Professional,Day,1.0,1,4,False,1,Seeing great results,2025-10-29T23:13:03.693077
+synthetic_user_4891,plan_37543,27,85.5,176.0,Intermediate,Week,0.86,4,4,False,6,Challenging but doable,2025-08-02T23:13:03.693086
+synthetic_user_2571,plan_41685,47,116.5,154.1,Beginner,Week,0.51,4,3,False,3,Partially completed,2025-08-20T23:13:03.693095
+synthetic_user_4060,plan_26444,19,71.8,190.6,Intermediate,Year,0.49,3,2,False,180,Could not maintain schedule,2025-07-14T23:13:03.693104
+synthetic_user_1472,plan_42901,62,76.4,167.8,Intermediate,Year,0.42,4,3,False,151,Too difficult for my level,2025-06-07T23:13:03.693113
+synthetic_user_4549,plan_56578,55,113.8,190.9,Advanced,Month,0.44,2,3,False,13,Time commitment too high,2025-06-08T23:13:03.693122
+synthetic_user_4613,plan_4478,47,55.8,163.4,Beginner,Year,0.41,5,3,False,149,Too difficult for my level,2025-06-08T23:13:03.693131
+synthetic_user_2872,plan_75478,39,53.5,154.8,Beginner,Week,0.71,3,4,False,4,Needed more rest days,2025-10-31T23:13:03.693140
+synthetic_user_8140,plan_35399,59,81.1,199.5,Intermediate,Day,0.72,3,5,False,0,Some exercises too difficult,2025-09-18T23:13:03.693148
+synthetic_user_5896,plan_73802,28,101.5,195.1,Advanced,Year,0.47,2,2,False,170,Time commitment too high,2025-10-07T23:13:03.693157
+synthetic_user_2144,plan_78560,50,67.5,196.2,Beginner,Month,0.42,3,4,False,12,Need easier alternatives,2025-10-17T23:13:03.693166
+synthetic_user_3190,plan_5364,57,96.2,189.9,Intermediate,Week,0.66,2,5,True,4,Had to stop due to injury,2025-07-18T23:13:03.693175
+synthetic_user_8609,plan_66516,27,52.0,166.6,Advanced,Month,0.9,4,4,False,26,Seeing great results,2025-10-01T23:13:03.693184
+synthetic_user_1891,plan_71843,55,105.6,180.8,Advanced,Day,0.71,4,4,False,0,Partially completed,2025-06-24T23:13:03.693193
+synthetic_user_948,plan_82568,28,100.1,195.6,Intermediate,Year,0.47,2,3,False,172,Could not maintain schedule,2025-08-21T23:13:03.693202
+synthetic_user_1027,plan_91626,62,100.7,156.5,Intermediate,Year,0.22,3,1,False,79,Could not maintain schedule,2025-07-16T23:13:03.693211
+synthetic_user_4860,plan_20648,19,85.3,164.0,Advanced,Day,0.97,4,5,False,0,Challenging but doable,2025-10-26T23:13:03.693220
+synthetic_user_6235,plan_86581,34,57.6,181.1,Beginner,Month,0.54,4,4,False,16,Some exercises too difficult,2025-08-01T23:13:03.693229
+synthetic_user_8094,plan_6201,33,96.9,187.8,Advanced,Week,0.89,3,4,False,6,Challenging but doable,2025-09-27T23:13:03.693238
+synthetic_user_7494,plan_83995,50,118.8,182.9,Intermediate,Week,0.8,3,4,False,5,Challenging but doable,2025-07-27T23:13:03.693247
+synthetic_user_9513,plan_20647,49,99.8,186.0,Beginner,Day,0.67,4,3,False,0,Needed more rest days,2025-10-04T23:13:03.693256
+synthetic_user_6950,plan_32372,27,113.2,183.4,Advanced,Month,0.68,4,5,False,20,Partially completed,2025-06-21T23:13:03.693266
+synthetic_user_8132,plan_97293,60,71.9,158.6,Advanced,Day,0.98,4,4,False,0,Would recommend to others,2025-08-28T23:13:03.693275
+synthetic_user_6007,plan_63244,35,97.9,165.7,Advanced,Day,0.93,2,5,False,0,Seeing great results,2025-07-20T23:13:03.693284
+synthetic_user_8331,plan_14575,41,96.8,165.5,Intermediate,Year,0.41,3,2,False,149,Need easier alternatives,2025-08-15T23:13:03.693293
+synthetic_user_7887,plan_87937,30,64.1,193.4,Beginner,Day,0.77,5,5,False,0,Good but could be better,2025-06-29T23:13:03.693302
+synthetic_user_7237,plan_25067,51,101.7,181.8,Beginner,Year,0.12,5,1,False,42,Need easier alternatives,2025-09-13T23:13:03.693311
+synthetic_user_6014,plan_69633,45,97.9,180.6,Beginner,Week,0.75,5,4,True,5,Not suitable for my level,2025-09-21T23:13:03.693320
+synthetic_user_6780,plan_95268,37,77.9,174.5,Professional,Day,0.92,1,5,False,0,Challenging but doable,2025-11-06T23:13:03.693329
+synthetic_user_4448,plan_54864,44,74.7,185.8,Professional,Week,0.92,1,5,False,6,Seeing great results,2025-11-18T23:13:03.693338
+synthetic_user_4727,plan_61723,19,69.7,198.0,Professional,Day,0.96,2,4,False,0,Challenging but doable,2025-06-02T23:13:03.693347
+synthetic_user_5370,plan_23279,24,98.7,197.6,Professional,Month,0.65,1,5,False,19,Some exercises too difficult,2025-06-10T23:13:03.693356
+synthetic_user_7892,plan_34945,59,66.0,194.9,Beginner,Year,0.29,3,2,False,105,Could not maintain schedule,2025-05-29T23:13:03.693365
+synthetic_user_4938,plan_85554,19,100.2,195.0,Professional,Month,0.72,2,5,False,21,Some exercises too difficult,2025-07-22T23:13:03.693375
+synthetic_user_628,plan_75648,42,53.2,167.2,Beginner,Day,0.61,5,5,False,0,Needed more rest days,2025-08-31T23:13:03.693383
+synthetic_user_1330,plan_60816,65,85.3,172.6,Advanced,Day,0.87,4,5,False,0,Challenging but doable,2025-09-12T23:13:03.693393
+synthetic_user_8689,plan_72833,55,83.0,163.3,Advanced,Day,0.68,2,3,False,0,Partially completed,2025-08-31T23:13:03.693401
+synthetic_user_3454,plan_79797,39,58.8,172.9,Intermediate,Year,0.47,2,3,False,170,Could not maintain schedule,2025-10-05T23:13:03.693410
+synthetic_user_9288,plan_55641,58,58.3,166.1,Professional,Year,0.59,3,2,False,213,Needed more rest days,2025-08-06T23:13:03.693419
+synthetic_user_3290,plan_32460,24,113.7,163.3,Professional,Year,0.51,2,3,False,185,Partially completed,2025-06-06T23:13:03.693428
+synthetic_user_4516,plan_15316,60,89.8,159.7,Advanced,Week,0.78,3,3,False,5,Needed more rest days,2025-11-07T23:13:03.693437
+synthetic_user_6173,plan_2621,31,78.8,199.3,Beginner,Year,0.34,4,2,False,124,Time commitment too high,2025-06-30T23:13:03.693445
+synthetic_user_7536,plan_35834,42,88.3,196.9,Advanced,Day,1.0,2,5,False,1,"Great workout, felt amazing!",2025-11-14T23:13:03.693454
+synthetic_user_7821,plan_43336,30,107.8,184.4,Beginner,Week,0.47,4,2,False,3,Time commitment too high,2025-11-08T23:13:03.693463
+synthetic_user_7800,plan_86613,49,60.0,160.3,Advanced,Day,0.97,2,4,False,0,Seeing great results,2025-06-03T23:13:03.693472
+synthetic_user_7990,plan_89053,54,74.0,166.6,Professional,Day,0.86,3,4,False,0,Would recommend to others,2025-11-13T23:13:03.693481
+synthetic_user_9787,plan_69816,40,119.2,177.0,Advanced,Month,0.7,2,3,False,21,Good but could be better,2025-08-21T23:13:03.693490
+synthetic_user_1453,plan_98694,43,105.6,175.0,Professional,Day,0.94,1,4,False,0,"Great workout, felt amazing!",2025-10-29T23:13:03.693499
+synthetic_user_3121,plan_38609,54,59.2,176.3,Beginner,Week,0.58,5,2,False,4,Some exercises too difficult,2025-09-16T23:13:03.693508
+synthetic_user_3913,plan_95293,61,93.1,196.6,Beginner,Month,0.49,5,4,False,14,Too difficult for my level,2025-08-23T23:13:03.693518
+synthetic_user_5681,plan_83993,23,66.7,196.2,Beginner,Week,0.58,3,4,False,4,Good but could be better,2025-07-01T23:13:03.693527
+synthetic_user_1092,plan_93534,33,79.5,184.7,Beginner,Month,0.46,4,4,False,13,Could not maintain schedule,2025-11-13T23:13:03.693535
+synthetic_user_8401,plan_2786,40,114.3,158.1,Professional,Week,0.91,2,4,False,6,"Great workout, felt amazing!",2025-06-01T23:13:03.693544
+synthetic_user_8119,plan_19657,37,88.9,177.1,Beginner,Week,0.66,3,3,False,4,Partially completed,2025-11-15T23:13:03.693553
+synthetic_user_3883,plan_32803,64,50.1,161.6,Professional,Week,0.89,2,4,False,6,Challenging but doable,2025-08-15T23:13:03.693562
+synthetic_user_9732,plan_81350,35,66.4,158.9,Professional,Month,0.79,2,5,False,23,Partially completed,2025-07-21T23:13:03.693571
+synthetic_user_4217,plan_20918,63,54.4,186.9,Advanced,Week,0.6,2,4,False,4,Good but could be better,2025-11-07T23:13:03.693580
+synthetic_user_1244,plan_63918,35,112.5,178.1,Beginner,Year,0.12,4,2,False,42,Need easier alternatives,2025-10-01T23:13:03.693589
+synthetic_user_5574,plan_12538,42,111.8,173.6,Beginner,Week,0.42,4,2,False,2,Time commitment too high,2025-08-11T23:13:03.693598
+synthetic_user_826,plan_89317,47,99.5,151.9,Advanced,Year,0.39,4,2,False,143,Could not maintain schedule,2025-07-11T23:13:03.693607
+synthetic_user_3444,plan_6033,58,110.0,176.1,Professional,Year,0.5,2,4,False,184,Partially completed,2025-09-20T23:13:03.693616
+synthetic_user_3068,plan_42815,45,110.6,183.9,Professional,Week,0.93,1,4,False,6,"Great workout, felt amazing!",2025-08-23T23:13:03.693625
+synthetic_user_6221,plan_14185,21,62.7,198.1,Beginner,Month,0.34,4,3,False,10,Could not maintain schedule,2025-11-15T23:13:03.693634
+synthetic_user_6535,plan_17777,56,111.7,182.0,Advanced,Week,0.84,4,4,False,5,Would recommend to others,2025-10-27T23:13:03.693644
+synthetic_user_8258,plan_63162,53,95.4,187.6,Advanced,Month,0.62,4,3,False,18,Partially completed,2025-06-27T23:13:03.693652
+synthetic_user_2143,plan_94578,30,81.7,184.5,Advanced,Year,0.68,3,3,False,247,Good but could be better,2025-09-28T23:13:03.693661
+synthetic_user_5441,plan_37731,22,111.0,182.2,Intermediate,Year,0.36,2,1,False,130,Time commitment too high,2025-11-06T23:13:03.693670
+synthetic_user_9348,plan_72760,39,68.3,177.8,Intermediate,Week,0.76,3,4,False,5,Needed more rest days,2025-09-29T23:13:03.693680
+synthetic_user_2552,plan_19818,56,95.6,158.5,Beginner,Year,0.1,4,1,False,36,Could not maintain schedule,2025-07-18T23:13:03.693688
+synthetic_user_641,plan_82997,61,110.3,176.7,Advanced,Week,0.87,3,4,True,6,"Too intense, caused pain",2025-08-27T23:13:03.693697
+synthetic_user_2116,plan_8712,38,65.5,189.0,Beginner,Week,0.47,5,3,False,3,Could not maintain schedule,2025-10-01T23:13:03.693706
+synthetic_user_9135,plan_90559,32,57.0,188.1,Professional,Month,0.52,3,4,False,15,Good but could be better,2025-07-02T23:13:03.693715
+synthetic_user_3680,plan_96892,41,68.9,187.4,Intermediate,Year,0.57,4,3,False,207,Good but could be better,2025-06-23T23:13:03.693724
+synthetic_user_1639,plan_78852,45,102.9,155.9,Advanced,Day,0.88,3,5,False,0,"Great workout, felt amazing!",2025-09-08T23:13:03.693733
+synthetic_user_5115,plan_20679,58,57.8,181.4,Professional,Day,0.73,1,4,True,0,Not suitable for my level,2025-11-06T23:13:03.693742
+synthetic_user_3549,plan_77450,27,72.9,167.1,Intermediate,Week,0.68,3,5,False,4,Partially completed,2025-07-05T23:13:03.693751
+synthetic_user_4426,plan_50841,59,52.1,170.8,Professional,Month,0.62,3,4,False,18,Partially completed,2025-09-20T23:13:03.693760
+synthetic_user_565,plan_76627,28,100.3,161.2,Professional,Year,0.41,3,2,False,149,Could not maintain schedule,2025-06-07T23:13:03.693769
+synthetic_user_2972,plan_56599,62,109.8,169.2,Intermediate,Day,0.58,4,2,False,0,Good but could be better,2025-10-03T23:13:03.693779
+synthetic_user_1695,plan_51837,53,92.9,197.5,Beginner,Year,0.37,4,3,False,135,Could not maintain schedule,2025-06-09T23:13:03.693788
+synthetic_user_2028,plan_45999,59,92.9,151.6,Professional,Week,0.61,2,3,False,4,Good but could be better,2025-09-11T23:13:03.693797
+synthetic_user_6666,plan_67562,25,65.1,199.0,Beginner,Day,0.56,5,2,True,0,Not suitable for my level,2025-09-29T23:13:03.693806
+synthetic_user_934,plan_209,59,67.1,191.8,Advanced,Year,0.38,2,3,False,138,Need easier alternatives,2025-11-03T23:13:03.693815
+synthetic_user_7036,plan_58920,35,81.8,167.5,Advanced,Year,0.61,4,5,False,223,Good but could be better,2025-10-11T23:13:03.693824
+synthetic_user_8696,plan_5930,27,85.8,155.1,Professional,Day,0.97,3,5,False,0,Would recommend to others,2025-11-21T23:13:03.693833
+synthetic_user_2181,plan_4387,19,93.2,174.4,Advanced,Day,0.69,3,5,False,0,Good but could be better,2025-06-22T23:13:03.693843
+synthetic_user_3684,plan_21948,48,50.7,152.7,Advanced,Day,1.0,2,5,False,1,"Great workout, felt amazing!",2025-07-17T23:13:03.693855
+synthetic_user_2803,plan_18902,43,82.9,192.6,Intermediate,Year,0.43,2,2,False,158,Time commitment too high,2025-06-21T23:13:03.693864
+synthetic_user_2200,plan_75795,38,119.7,181.6,Intermediate,Week,0.79,4,3,False,5,Partially completed,2025-10-27T23:13:03.693873
+synthetic_user_5997,plan_8501,57,109.0,193.2,Advanced,Week,0.91,2,5,False,6,Challenging but doable,2025-09-25T23:13:03.693965
+synthetic_user_6178,plan_98525,30,104.0,171.0,Beginner,Year,0.25,5,3,False,92,Time commitment too high,2025-06-07T23:13:03.693975
+synthetic_user_7929,plan_12849,49,96.3,186.3,Advanced,Day,1.0,2,5,False,1,Would recommend to others,2025-06-27T23:13:03.693984
+synthetic_user_1500,plan_24393,43,61.1,193.7,Intermediate,Week,0.76,3,5,False,5,Needed more rest days,2025-09-08T23:13:03.693993
+synthetic_user_5699,plan_80559,42,98.0,152.4,Advanced,Week,0.83,4,4,False,5,"Great workout, felt amazing!",2025-08-05T23:13:03.694002
+synthetic_user_2871,plan_4895,34,76.3,177.9,Intermediate,Day,0.94,3,5,False,0,Challenging but doable,2025-05-29T23:13:03.694010
+synthetic_user_2759,plan_66431,39,114.4,181.8,Professional,Week,0.89,1,4,False,6,Challenging but doable,2025-11-05T23:13:03.694020
+synthetic_user_3132,plan_9347,49,72.5,151.6,Beginner,Month,0.29,4,3,False,8,Too difficult for my level,2025-07-22T23:13:03.694029
+synthetic_user_5964,plan_4992,35,69.3,153.2,Advanced,Year,0.57,4,3,False,209,Some exercises too difficult,2025-10-21T23:13:03.694038
+synthetic_user_89,plan_19317,65,88.2,199.6,Beginner,Day,0.79,3,5,False,0,Some exercises too difficult,2025-09-28T23:13:03.694047
+synthetic_user_6427,plan_77187,44,116.1,181.2,Beginner,Week,0.67,3,4,False,4,Partially completed,2025-06-26T23:13:03.694057
+synthetic_user_9759,plan_9439,63,105.4,152.9,Intermediate,Day,0.73,4,3,False,0,Good but could be better,2025-10-17T23:13:03.694066
+synthetic_user_8551,plan_3303,42,70.2,183.7,Advanced,Week,0.92,4,4,False,6,Would recommend to others,2025-07-31T23:13:03.694075
+synthetic_user_6397,plan_83825,46,97.1,192.9,Advanced,Day,0.94,3,4,False,0,Perfect difficulty level,2025-09-27T23:13:03.694084
+synthetic_user_3932,plan_71135,31,57.2,199.0,Intermediate,Week,0.83,4,4,False,5,Would recommend to others,2025-09-17T23:13:03.694093
+synthetic_user_6157,plan_96916,29,103.1,151.7,Intermediate,Year,0.28,3,1,False,102,Need easier alternatives,2025-10-13T23:13:03.694102
+synthetic_user_3095,plan_1362,56,52.1,158.2,Beginner,Day,0.58,3,4,False,0,Partially completed,2025-09-01T23:13:03.694112
+synthetic_user_5697,plan_50875,52,101.7,154.4,Professional,Year,0.46,2,3,False,167,Too difficult for my level,2025-10-01T23:13:03.694122
+synthetic_user_4756,plan_47183,56,87.7,169.3,Intermediate,Year,0.19,4,3,False,70,Need easier alternatives,2025-07-11T23:13:03.694132
+synthetic_user_6065,plan_90502,38,53.9,150.6,Intermediate,Year,0.44,2,2,False,160,Could not maintain schedule,2025-11-17T23:13:03.694140
+synthetic_user_6560,plan_88285,54,100.4,168.1,Professional,Day,0.8,1,5,False,0,"Great workout, felt amazing!",2025-09-07T23:13:03.694149
+synthetic_user_5086,plan_19437,22,87.5,170.7,Advanced,Month,0.56,4,3,False,16,Partially completed,2025-07-13T23:13:03.694158
+synthetic_user_324,plan_13085,56,115.5,190.3,Advanced,Month,0.52,2,2,False,15,Partially completed,2025-07-29T23:13:03.694167
+synthetic_user_472,plan_52820,42,92.5,195.2,Beginner,Day,0.9,4,4,False,0,Perfect difficulty level,2025-08-17T23:13:03.694175
+synthetic_user_8803,plan_54921,28,98.9,189.0,Professional,Year,0.66,3,3,False,242,Needed more rest days,2025-06-28T23:13:03.694184
+synthetic_user_1993,plan_24910,27,96.3,183.8,Intermediate,Year,0.53,3,3,False,195,Needed more rest days,2025-09-15T23:13:03.694193
+synthetic_user_9073,plan_71168,26,80.1,186.9,Beginner,Week,0.67,4,3,False,4,Partially completed,2025-07-11T23:13:03.694203
+synthetic_user_8912,plan_36139,48,83.9,192.6,Professional,Month,0.64,1,5,False,19,Some exercises too difficult,2025-06-28T23:13:03.694212
+synthetic_user_8146,plan_52795,42,108.8,198.7,Intermediate,Week,0.77,2,5,False,5,Some exercises too difficult,2025-08-18T23:13:03.694220
+synthetic_user_9439,plan_24584,33,73.0,193.8,Intermediate,Year,0.64,3,5,False,232,Some exercises too difficult,2025-11-23T23:13:03.694229
+synthetic_user_6446,plan_75599,36,94.4,177.5,Intermediate,Year,0.56,4,2,False,206,Some exercises too difficult,2025-06-04T23:13:03.694238
+synthetic_user_9505,plan_6523,60,77.6,161.4,Intermediate,Day,0.94,4,4,False,0,Perfect difficulty level,2025-09-27T23:13:03.694247
+synthetic_user_6162,plan_32928,56,73.7,194.8,Beginner,Month,0.44,3,3,False,13,Time commitment too high,2025-10-30T23:13:03.694256
+synthetic_user_7636,plan_62739,62,81.7,178.5,Intermediate,Week,0.64,3,3,False,4,Partially completed,2025-10-17T23:13:03.694265
+synthetic_user_8546,plan_7065,26,108.5,187.9,Beginner,Year,0.39,3,3,False,141,Could not maintain schedule,2025-07-05T23:13:03.694274
+synthetic_user_2117,plan_72511,20,100.9,154.3,Professional,Week,0.86,2,4,False,5,Challenging but doable,2025-06-04T23:13:03.694283
+synthetic_user_5796,plan_40904,42,84.8,196.0,Intermediate,Month,0.68,2,3,False,20,Some exercises too difficult,2025-09-18T23:13:03.694292
+synthetic_user_6930,plan_2281,55,99.9,180.4,Intermediate,Week,0.73,4,3,False,5,Needed more rest days,2025-08-11T23:13:03.694300
+synthetic_user_1407,plan_11374,62,98.3,187.2,Intermediate,Day,0.84,3,4,False,0,Seeing great results,2025-07-08T23:13:03.694309
+synthetic_user_6433,plan_90286,52,60.5,184.6,Intermediate,Year,0.31,3,1,False,111,Time commitment too high,2025-10-27T23:13:03.694318
+synthetic_user_222,plan_82271,55,74.1,194.1,Beginner,Year,0.14,5,3,False,52,Could not maintain schedule,2025-10-29T23:13:03.694327
+synthetic_user_9231,plan_9298,38,98.8,185.1,Intermediate,Day,0.9,4,4,False,0,Perfect difficulty level,2025-08-04T23:13:03.694335
+synthetic_user_2921,plan_49594,63,97.8,195.6,Beginner,Day,0.64,3,4,False,0,Some exercises too difficult,2025-07-13T23:13:03.694344
+synthetic_user_9820,plan_59551,43,105.1,184.5,Advanced,Year,0.61,2,5,False,222,Needed more rest days,2025-11-15T23:13:03.694353
+synthetic_user_3689,plan_26262,27,109.2,164.9,Professional,Month,0.77,2,4,False,22,Good but could be better,2025-11-06T23:13:03.694362
+synthetic_user_1996,plan_41583,56,66.2,184.8,Advanced,Week,0.94,3,4,False,6,Challenging but doable,2025-09-11T23:13:03.694371
+synthetic_user_9940,plan_34342,18,100.4,173.0,Professional,Year,0.37,1,3,False,135,Time commitment too high,2025-11-13T23:13:03.694381
+synthetic_user_2497,plan_25875,27,117.7,162.6,Advanced,Day,0.96,2,5,False,0,Would recommend to others,2025-09-15T23:13:03.694390
+synthetic_user_9255,plan_33977,31,62.8,175.0,Advanced,Day,1.0,4,4,False,1,Would recommend to others,2025-06-01T23:13:03.694399
+synthetic_user_3514,plan_88192,59,65.5,178.2,Beginner,Week,0.61,3,5,False,4,Partially completed,2025-05-28T23:13:03.694408
+synthetic_user_4355,plan_33180,59,100.5,192.7,Intermediate,Month,0.6,4,4,False,18,Some exercises too difficult,2025-09-22T23:13:03.694416
+synthetic_user_4080,plan_72288,47,104.3,198.6,Beginner,Day,0.76,3,3,False,0,Partially completed,2025-06-09T23:13:03.694425
+synthetic_user_9652,plan_871,23,102.5,161.2,Beginner,Week,0.38,4,2,False,2,Could not maintain schedule,2025-11-23T23:13:03.694434
+synthetic_user_9984,plan_67305,52,88.8,150.8,Beginner,Day,0.56,5,4,False,0,Needed more rest days,2025-10-25T23:13:03.694443
+synthetic_user_2048,plan_33031,43,59.7,177.5,Intermediate,Year,0.39,3,3,False,141,Time commitment too high,2025-11-07T23:13:03.694452
+synthetic_user_2680,plan_39394,46,101.0,162.0,Advanced,Month,0.5,4,3,False,15,Needed more rest days,2025-11-13T23:13:03.694461
+synthetic_user_5983,plan_31328,33,69.6,171.9,Professional,Day,0.9,3,4,False,0,Seeing great results,2025-08-02T23:13:03.694470
+synthetic_user_3673,plan_15257,51,95.4,198.5,Intermediate,Week,0.61,4,4,False,4,Good but could be better,2025-09-10T23:13:03.694478
+synthetic_user_6876,plan_91985,60,82.8,166.9,Professional,Year,0.4,1,2,False,147,Time commitment too high,2025-07-22T23:13:03.694487
+synthetic_user_8800,plan_88485,34,62.7,156.2,Intermediate,Week,0.78,3,5,False,5,Partially completed,2025-06-23T23:13:03.694496
+synthetic_user_3356,plan_65732,21,72.8,183.7,Professional,Day,1.0,3,4,False,1,Challenging but doable,2025-11-11T23:13:03.694504
+synthetic_user_6912,plan_56578,48,50.6,166.9,Intermediate,Month,0.62,3,3,False,18,Some exercises too difficult,2025-08-05T23:13:03.694514
+synthetic_user_7384,plan_55638,30,60.5,151.4,Beginner,Week,0.65,4,3,False,4,Good but could be better,2025-10-21T23:13:03.694523
+synthetic_user_4743,plan_93088,25,112.6,194.4,Beginner,Week,0.57,4,3,False,3,Needed more rest days,2025-11-07T23:13:03.694531
+synthetic_user_635,plan_59848,21,63.7,197.0,Beginner,Month,0.2,4,3,False,6,Could not maintain schedule,2025-09-06T23:13:03.694540
+synthetic_user_8061,plan_70928,51,97.2,191.9,Advanced,Day,0.78,3,5,False,0,Some exercises too difficult,2025-08-22T23:13:03.694549
+synthetic_user_4919,plan_52737,47,59.8,190.5,Advanced,Month,0.52,2,3,False,15,Good but could be better,2025-10-08T23:13:03.694558
+synthetic_user_6274,plan_61957,34,82.8,189.4,Intermediate,Year,0.53,3,3,False,193,Some exercises too difficult,2025-08-07T23:13:03.694567
+synthetic_user_4084,plan_9087,20,98.3,186.3,Advanced,Day,1.0,2,5,False,1,Seeing great results,2025-06-30T23:13:03.694576
+synthetic_user_7901,plan_99337,32,61.3,176.1,Advanced,Year,0.56,2,3,False,203,Some exercises too difficult,2025-10-21T23:13:03.694585
+synthetic_user_2829,plan_77057,39,98.5,197.2,Beginner,Week,0.63,3,4,False,4,Needed more rest days,2025-07-05T23:13:03.694593
+synthetic_user_8627,plan_3253,54,82.5,180.5,Intermediate,Day,0.77,4,3,False,0,Some exercises too difficult,2025-06-15T23:13:03.694602
+synthetic_user_641,plan_95319,19,63.2,186.9,Intermediate,Year,0.24,4,2,False,87,Too difficult for my level,2025-09-12T23:13:03.694611
+synthetic_user_9749,plan_35834,48,75.6,183.5,Intermediate,Day,0.85,4,4,False,0,Perfect difficulty level,2025-11-21T23:13:03.694620
+synthetic_user_3802,plan_96236,50,114.3,174.7,Beginner,Day,0.76,5,3,False,0,Good but could be better,2025-06-30T23:13:03.694630
+synthetic_user_6211,plan_9050,36,108.9,189.8,Intermediate,Year,0.53,2,3,False,192,Some exercises too difficult,2025-06-02T23:13:03.694639
+synthetic_user_8339,plan_7097,35,98.6,180.9,Intermediate,Day,0.85,2,4,False,0,Seeing great results,2025-08-02T23:13:03.694648
+synthetic_user_3371,plan_71796,18,96.4,194.7,Beginner,Month,0.37,4,3,False,10,Too difficult for my level,2025-08-20T23:13:03.694656
+synthetic_user_5883,plan_77758,39,79.3,195.7,Beginner,Day,0.67,5,5,False,0,Good but could be better,2025-11-15T23:13:03.694665
+synthetic_user_9129,plan_66600,18,63.5,162.1,Advanced,Week,0.79,4,4,True,5,Not suitable for my level,2025-07-09T23:13:03.694674
+synthetic_user_9724,plan_22570,24,66.9,178.9,Intermediate,Month,0.65,2,3,False,19,Some exercises too difficult,2025-07-10T23:13:03.694683
+synthetic_user_3125,plan_28629,61,58.8,185.6,Beginner,Year,0.12,3,2,False,45,Could not maintain schedule,2025-09-21T23:13:03.694692
+synthetic_user_1916,plan_50263,37,73.5,154.1,Beginner,Week,0.62,4,5,True,4,Had to stop due to injury,2025-10-17T23:13:03.694701
+synthetic_user_7879,plan_7942,28,96.3,176.6,Professional,Week,0.73,3,3,False,5,Needed more rest days,2025-08-29T23:13:03.694710
+synthetic_user_240,plan_95864,55,119.1,160.3,Professional,Month,0.6,3,4,False,17,Some exercises too difficult,2025-09-18T23:13:03.694719
+synthetic_user_4924,plan_90468,43,100.6,174.7,Advanced,Month,0.54,3,2,False,16,Some exercises too difficult,2025-06-23T23:13:03.694727
+synthetic_user_3314,plan_5495,18,61.5,196.2,Advanced,Month,0.46,4,2,False,13,Too difficult for my level,2025-10-31T23:13:03.694736
+synthetic_user_6062,plan_23249,34,75.9,159.9,Professional,Week,0.79,2,3,False,5,Some exercises too difficult,2025-08-13T23:13:03.694745
+synthetic_user_4456,plan_76281,31,92.2,150.9,Advanced,Day,0.88,2,5,False,0,Perfect difficulty level,2025-10-31T23:13:03.694753
+synthetic_user_9905,plan_2651,46,82.1,193.0,Beginner,Year,0.47,3,3,False,171,Time commitment too high,2025-06-08T23:13:03.694762
+synthetic_user_9684,plan_85477,40,104.4,160.9,Professional,Day,1.0,1,4,False,1,Challenging but doable,2025-11-08T23:13:03.694771
+synthetic_user_69,plan_96194,64,56.1,151.6,Advanced,Week,0.94,2,4,False,6,Challenging but doable,2025-10-08T23:13:03.694780
+synthetic_user_4440,plan_71269,19,91.0,158.8,Professional,Month,0.68,1,4,False,20,Good but could be better,2025-10-02T23:13:03.694789
+synthetic_user_6479,plan_17968,64,59.1,178.8,Professional,Month,0.66,3,5,False,19,Partially completed,2025-11-02T23:13:03.694798
+synthetic_user_6336,plan_97317,57,115.4,178.2,Beginner,Week,0.44,5,2,False,3,Time commitment too high,2025-11-06T23:13:03.694806
+synthetic_user_195,plan_61594,62,117.5,166.0,Professional,Month,0.66,1,5,False,19,Needed more rest days,2025-05-28T23:13:03.694815
+synthetic_user_4903,plan_21012,36,103.2,176.7,Advanced,Month,0.66,2,4,False,19,Some exercises too difficult,2025-06-30T23:13:03.694824
+synthetic_user_4136,plan_25297,37,92.8,185.3,Professional,Year,0.52,1,3,False,191,Partially completed,2025-11-24T23:13:03.694837
+synthetic_user_9038,plan_68444,58,59.4,197.5,Advanced,Week,0.71,3,5,False,5,Partially completed,2025-11-20T23:13:03.694846
+synthetic_user_918,plan_1553,51,83.9,194.5,Professional,Year,0.47,3,4,False,172,Time commitment too high,2025-07-19T23:13:03.694855
+synthetic_user_4640,plan_58,22,68.7,165.3,Intermediate,Year,0.31,4,2,False,114,Too difficult for my level,2025-08-31T23:13:03.694864
+synthetic_user_2639,plan_60871,50,64.6,198.6,Intermediate,Week,0.8,3,3,False,5,Good but could be better,2025-08-25T23:13:03.694873
+synthetic_user_7068,plan_45835,25,67.0,177.4,Advanced,Month,0.67,2,3,False,19,Needed more rest days,2025-09-07T23:13:03.694882
+synthetic_user_9924,plan_45346,38,55.2,196.7,Advanced,Day,0.76,3,4,False,0,Good but could be better,2025-10-24T23:13:03.694892
+synthetic_user_2729,plan_10170,53,108.7,192.9,Advanced,Week,0.89,2,4,False,6,Would recommend to others,2025-06-27T23:13:03.694901
+synthetic_user_2361,plan_16121,41,81.2,180.5,Beginner,Day,0.68,5,3,False,0,Needed more rest days,2025-06-09T23:13:03.694910
+synthetic_user_707,plan_40241,32,51.7,179.6,Advanced,Day,0.84,2,4,False,0,Seeing great results,2025-10-18T23:13:03.694919
+synthetic_user_8591,plan_13894,28,60.0,167.9,Advanced,Week,0.96,3,4,False,6,Would recommend to others,2025-06-18T23:13:03.694927
+synthetic_user_9876,plan_39228,58,72.6,172.5,Beginner,Year,0.41,5,3,False,149,Could not maintain schedule,2025-06-19T23:13:03.694937
+synthetic_user_8253,plan_77266,51,103.5,195.0,Professional,Month,0.79,3,3,False,23,Partially completed,2025-07-11T23:13:03.694946
+synthetic_user_1100,plan_52481,42,63.2,157.4,Intermediate,Week,0.79,4,3,False,5,Good but could be better,2025-09-13T23:13:03.694955
+synthetic_user_6531,plan_95765,63,114.0,189.4,Professional,Month,0.58,2,2,False,17,Needed more rest days,2025-08-10T23:13:03.694964
+synthetic_user_8552,plan_85939,60,74.6,191.5,Advanced,Day,0.97,3,4,False,0,Seeing great results,2025-09-09T23:13:03.694973
+synthetic_user_3218,plan_60582,35,67.3,191.9,Professional,Year,0.35,2,1,False,129,Too difficult for my level,2025-06-30T23:13:03.694982
+synthetic_user_9742,plan_4965,59,68.7,171.6,Professional,Month,0.82,2,4,False,24,Perfect difficulty level,2025-08-23T23:13:03.694992
+synthetic_user_5063,plan_243,51,88.1,199.4,Professional,Week,0.74,3,4,False,5,Partially completed,2025-06-15T23:13:03.695001
+synthetic_user_876,plan_41642,27,78.1,157.5,Professional,Day,0.89,1,5,False,0,"Great workout, felt amazing!",2025-09-27T23:13:03.695009
+synthetic_user_6256,plan_97748,25,114.4,179.2,Professional,Week,0.79,1,5,False,5,Good but could be better,2025-06-18T23:13:03.695018
+synthetic_user_3948,plan_3158,37,68.5,173.9,Intermediate,Month,0.54,2,4,False,16,Good but could be better,2025-06-25T23:13:03.695026
+synthetic_user_2887,plan_21429,42,86.5,186.6,Advanced,Year,0.5,2,4,False,182,Need easier alternatives,2025-10-29T23:13:03.695036
+synthetic_user_3457,plan_21351,55,59.3,186.6,Advanced,Week,0.8,3,4,False,5,Some exercises too difficult,2025-10-16T23:13:03.695044
+synthetic_user_9374,plan_19340,46,103.5,181.4,Professional,Year,0.39,1,2,False,140,Need easier alternatives,2025-07-22T23:13:03.695053
+synthetic_user_365,plan_95750,44,108.1,175.9,Advanced,Year,0.45,2,4,False,163,Too difficult for my level,2025-08-12T23:13:03.695062
+synthetic_user_4420,plan_45237,59,73.5,166.0,Intermediate,Year,0.31,3,2,False,112,Need easier alternatives,2025-07-09T23:13:03.695070
+synthetic_user_2711,plan_74549,49,56.6,197.0,Beginner,Day,0.72,5,5,False,0,Some exercises too difficult,2025-07-12T23:13:03.695079
+synthetic_user_6339,plan_62151,39,95.8,198.4,Professional,Year,0.74,2,4,False,269,Good but could be better,2025-06-18T23:13:03.695088
+synthetic_user_2114,plan_69584,22,75.5,175.3,Intermediate,Year,0.45,2,2,False,165,Need easier alternatives,2025-07-24T23:13:03.695097
+synthetic_user_1351,plan_58446,19,91.5,177.3,Professional,Day,1.0,1,4,False,1,Perfect difficulty level,2025-09-10T23:13:03.695105
+synthetic_user_4799,plan_50901,40,59.5,162.5,Advanced,Day,1.0,3,4,False,1,Perfect difficulty level,2025-10-09T23:13:03.695114
+synthetic_user_1385,plan_7489,62,54.9,193.2,Professional,Day,0.77,2,5,False,0,Needed more rest days,2025-11-09T23:13:03.695123
+synthetic_user_7775,plan_36210,46,91.8,197.0,Beginner,Year,0.46,5,3,False,168,Could not maintain schedule,2025-10-16T23:13:03.695132
+synthetic_user_7368,plan_75121,43,104.0,172.5,Intermediate,Day,0.77,3,4,False,0,Good but could be better,2025-06-12T23:13:03.695141
+synthetic_user_5048,plan_55844,52,63.5,197.9,Beginner,Day,0.47,5,4,False,0,Could not maintain schedule,2025-09-01T23:13:03.695150
+synthetic_user_8538,plan_8918,58,118.7,152.2,Advanced,Day,0.77,3,5,False,0,Needed more rest days,2025-10-26T23:13:03.695159
+synthetic_user_6916,plan_75480,37,103.1,164.1,Professional,Year,0.62,3,5,False,228,Partially completed,2025-11-13T23:13:03.695168
+synthetic_user_8993,plan_12823,27,68.1,188.3,Professional,Month,0.83,1,5,False,24,Seeing great results,2025-08-10T23:13:03.695176
+synthetic_user_6464,plan_15495,27,112.0,160.4,Intermediate,Day,0.88,4,4,False,0,Challenging but doable,2025-06-03T23:13:03.695186
+synthetic_user_4711,plan_44700,44,117.7,168.6,Advanced,Year,0.39,4,2,False,142,Too difficult for my level,2025-09-05T23:13:03.695194
+synthetic_user_2909,plan_8408,46,51.2,192.9,Advanced,Day,0.91,4,5,False,0,Perfect difficulty level,2025-10-03T23:13:03.695203
+synthetic_user_8084,plan_85900,35,69.1,181.0,Intermediate,Month,0.52,2,2,False,15,Partially completed,2025-09-01T23:13:03.695212
+synthetic_user_3588,plan_63600,42,103.4,176.5,Intermediate,Day,0.91,4,4,False,0,Seeing great results,2025-08-05T23:13:03.695221
+synthetic_user_2466,plan_41667,56,71.7,190.7,Beginner,Year,0.39,4,3,False,142,Time commitment too high,2025-10-24T23:13:03.695230
+synthetic_user_3589,plan_63139,28,56.2,159.1,Professional,Year,0.55,1,4,False,201,Good but could be better,2025-08-25T23:13:03.695239
+synthetic_user_7933,plan_92793,56,91.9,181.0,Advanced,Year,0.4,2,2,False,144,Too difficult for my level,2025-07-16T23:13:03.695248
+synthetic_user_8017,plan_9664,35,72.3,186.5,Beginner,Month,0.53,4,4,False,15,Good but could be better,2025-09-04T23:13:03.695257
+synthetic_user_1951,plan_5462,18,92.2,187.0,Beginner,Year,0.16,5,1,False,56,Too difficult for my level,2025-08-01T23:13:03.695265
+synthetic_user_3197,plan_12351,36,102.9,165.7,Advanced,Day,1.0,3,5,False,1,Would recommend to others,2025-06-26T23:13:03.695274
+synthetic_user_7622,plan_5883,57,65.9,177.8,Professional,Week,0.75,3,3,False,5,Needed more rest days,2025-08-18T23:13:03.695283
+synthetic_user_2767,plan_35281,53,77.6,172.9,Beginner,Year,0.21,4,3,False,75,Could not maintain schedule,2025-06-19T23:13:03.695292
+synthetic_user_7583,plan_13456,50,87.9,157.0,Beginner,Month,0.32,4,2,False,9,Could not maintain schedule,2025-09-10T23:13:03.695301
+synthetic_user_3684,plan_75872,44,86.2,184.0,Professional,Day,1.0,1,4,False,1,Perfect difficulty level,2025-08-03T23:13:03.695310
+synthetic_user_5647,plan_84024,51,52.7,177.8,Beginner,Day,0.62,5,5,False,0,Good but could be better,2025-08-21T23:13:03.695319
+synthetic_user_4164,plan_59065,37,119.4,199.5,Advanced,Week,0.66,4,4,False,4,Some exercises too difficult,2025-09-09T23:13:03.695328
+synthetic_user_7236,plan_48498,45,62.0,192.5,Professional,Day,1.0,1,5,False,1,Would recommend to others,2025-07-27T23:13:03.695337
+synthetic_user_3367,plan_44420,20,115.7,154.0,Beginner,Week,0.55,4,4,False,3,Some exercises too difficult,2025-08-08T23:13:03.695346
+synthetic_user_1009,plan_96835,43,85.6,191.7,Advanced,Day,1.0,3,5,False,1,Perfect difficulty level,2025-09-09T23:13:03.695355
+synthetic_user_4710,plan_87111,41,99.2,178.9,Professional,Month,0.62,2,4,False,18,Needed more rest days,2025-08-28T23:13:03.695363
+synthetic_user_7225,plan_84722,56,59.9,162.2,Advanced,Year,0.51,4,3,False,186,Needed more rest days,2025-06-01T23:13:03.695372
+synthetic_user_7264,plan_21524,65,77.7,180.9,Beginner,Year,0.23,4,1,False,84,Too difficult for my level,2025-09-19T23:13:03.695381
+synthetic_user_4495,plan_35262,29,67.8,154.5,Advanced,Day,0.9,4,5,False,0,Seeing great results,2025-11-05T23:13:03.695393
+synthetic_user_9416,plan_67171,19,93.1,192.8,Intermediate,Day,0.85,2,5,False,0,Would recommend to others,2025-09-17T23:13:03.695402
+synthetic_user_8864,plan_88994,25,86.6,183.9,Beginner,Month,0.6,4,4,True,17,Experienced joint pain,2025-08-08T23:13:03.695411
+synthetic_user_3330,plan_82567,54,100.5,153.8,Advanced,Week,0.62,3,3,False,4,Some exercises too difficult,2025-06-03T23:13:03.695420
+synthetic_user_5015,plan_24958,38,106.8,157.0,Advanced,Month,0.62,4,4,False,18,Some exercises too difficult,2025-08-18T23:13:03.695428
+synthetic_user_2010,plan_46075,57,58.5,167.5,Professional,Year,0.56,1,4,False,204,Needed more rest days,2025-10-18T23:13:03.695438
+synthetic_user_682,plan_59864,54,113.7,151.5,Advanced,Week,0.62,4,5,False,4,Good but could be better,2025-10-24T23:13:03.695447
+synthetic_user_2159,plan_94294,48,70.1,171.0,Intermediate,Day,0.93,4,5,False,0,Perfect difficulty level,2025-06-19T23:13:03.695456
+synthetic_user_1655,plan_57248,35,104.4,159.4,Professional,Year,0.37,3,2,False,135,Could not maintain schedule,2025-11-07T23:13:03.695464
+synthetic_user_7900,plan_91687,55,87.9,156.6,Professional,Year,0.36,2,1,False,133,Time commitment too high,2025-11-20T23:13:03.695473
+synthetic_user_5985,plan_47527,55,86.5,190.2,Professional,Day,0.83,2,4,False,0,Perfect difficulty level,2025-08-13T23:13:03.695482
+synthetic_user_7224,plan_21634,50,118.3,194.8,Beginner,Month,0.47,3,2,False,13,Could not maintain schedule,2025-10-17T23:13:03.695491
+synthetic_user_3895,plan_83249,41,108.1,157.1,Professional,Day,0.81,1,4,False,0,Challenging but doable,2025-07-25T23:13:03.695499
+synthetic_user_8629,plan_31036,34,73.7,174.5,Professional,Month,0.66,3,3,False,19,Partially completed,2025-09-04T23:13:03.695508
+synthetic_user_3930,plan_13108,54,65.8,171.4,Intermediate,Year,0.48,3,4,False,173,Need easier alternatives,2025-07-27T23:13:03.695517
+synthetic_user_3505,plan_56483,26,54.9,161.1,Advanced,Month,0.74,4,3,False,22,Some exercises too difficult,2025-07-29T23:13:03.695526
+synthetic_user_6192,plan_19877,37,88.8,192.1,Beginner,Month,0.37,3,2,False,11,Too difficult for my level,2025-10-01T23:13:03.695535
+synthetic_user_1131,plan_89445,52,117.3,170.1,Professional,Month,0.61,3,4,False,18,Good but could be better,2025-07-13T23:13:03.695544
+synthetic_user_9884,plan_28017,59,81.6,174.5,Advanced,Month,0.76,2,4,True,22,Had to stop due to injury,2025-10-07T23:13:03.695552
+synthetic_user_433,plan_92659,31,74.7,151.3,Beginner,Day,0.72,3,3,False,0,Good but could be better,2025-09-21T23:13:03.695561
+synthetic_user_962,plan_72642,22,68.7,174.7,Advanced,Month,0.7,2,3,False,21,Some exercises too difficult,2025-09-08T23:13:03.695570
+synthetic_user_5257,plan_41384,18,79.3,198.1,Professional,Week,0.84,1,4,True,5,Experienced joint pain,2025-09-15T23:13:03.695579
+synthetic_user_6745,plan_11093,43,114.2,187.9,Advanced,Week,0.81,3,4,False,5,Would recommend to others,2025-10-16T23:13:03.695588
+synthetic_user_4015,plan_63360,30,106.3,178.5,Advanced,Day,0.96,2,4,False,0,Would recommend to others,2025-08-15T23:13:03.695597
+synthetic_user_5860,plan_7555,28,57.5,153.4,Intermediate,Week,0.67,3,4,False,4,Good but could be better,2025-07-12T23:13:03.695605
+synthetic_user_3696,plan_48476,37,93.4,162.4,Advanced,Week,0.72,2,3,False,5,Needed more rest days,2025-06-27T23:13:03.695614
+synthetic_user_6750,plan_29399,38,97.6,184.4,Professional,Week,0.95,2,4,False,6,Perfect difficulty level,2025-06-07T23:13:03.695623
+synthetic_user_1848,plan_53332,33,104.8,188.0,Intermediate,Day,1.0,2,5,False,1,Challenging but doable,2025-11-03T23:13:03.695632
+synthetic_user_2361,plan_91283,63,99.0,195.5,Advanced,Week,0.95,2,4,False,6,Would recommend to others,2025-06-25T23:13:03.695641
+synthetic_user_910,plan_14397,44,72.6,194.6,Professional,Year,0.63,3,4,False,229,Needed more rest days,2025-08-18T23:13:03.695650
+synthetic_user_3055,plan_75444,30,85.0,192.5,Intermediate,Year,0.62,4,5,False,225,Partially completed,2025-07-22T23:13:03.695659
+synthetic_user_4950,plan_28955,29,75.5,157.7,Beginner,Day,0.75,3,4,False,0,Good but could be better,2025-07-12T23:13:03.695668
+synthetic_user_723,plan_14149,46,98.2,194.9,Beginner,Month,0.4,5,4,True,12,Experienced joint pain,2025-10-30T23:13:03.695678
+synthetic_user_5368,plan_4457,32,104.4,168.2,Beginner,Month,0.43,3,2,False,12,Need easier alternatives,2025-11-01T23:13:03.695687
+synthetic_user_6851,plan_14063,60,104.4,180.6,Intermediate,Month,0.55,3,3,False,16,Good but could be better,2025-07-01T23:13:03.695696
+synthetic_user_3433,plan_48396,39,85.2,163.3,Advanced,Week,0.66,2,5,False,4,Needed more rest days,2025-06-29T23:13:03.695705
+synthetic_user_2573,plan_80463,49,84.9,159.1,Professional,Year,0.42,3,3,False,151,Could not maintain schedule,2025-10-01T23:13:03.695714
+synthetic_user_2926,plan_44567,57,58.6,175.1,Intermediate,Week,0.68,4,5,False,4,Partially completed,2025-08-10T23:13:03.695723
