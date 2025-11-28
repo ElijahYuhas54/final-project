@@ -468,7 +468,7 @@ WorkoutAIApp/
     ├── ML_TRAINING_GUIDE.txt      # ML pipeline guide
     └── README.md                  # This file
 ```
-
+Project files can be in the files uploaded. All other files, non-swift, .md, .txt, etc., can be found in the .zip files
 ---
 
 ## Performance Benchmarks
