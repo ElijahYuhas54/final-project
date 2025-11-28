@@ -5,6 +5,16 @@
 
 An iOS application that generates personalized workout plans using Google Gemini AI and learns from user feedback to improve recommendations over time.
 
+## Contact
+
+**Developer**: Elijah Yuhas
+**Project**: CAP 4630 - Intro to Artificial Intelligence
+**Institution**: Florida Atlantic University
+**Email**: [eyuhas2022@fau.edu]
+**Project Link**: [https://github.com/yourusername/workout-ai](https://github.com/yourusername/workout-ai)
+
+---
+
 ## Table of Contents
 - [Overview](#overview)
 - [System Description](#system-description)
@@ -477,24 +487,6 @@ WorkoutAIApp/
 
 ---
 
-## Contributing
-
-Contributions are welcome! Please follow these guidelines:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
 ## Acknowledgments
 
 - **Google Gemini AI** for powerful natural language processing capabilities
@@ -504,15 +496,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-## Contact
-
-**Developer**: Elijah Yuhas
-**Project**: CAP 4630 - Intro to Artificial Intelligence
-**Institution**: Florida Atlantic University
-**Email**: [your-email@fau.edu]
-**Project Link**: [https://github.com/yourusername/workout-ai](https://github.com/yourusername/workout-ai)
-
----
 
 ## FAQ
 
@@ -533,6 +516,3 @@ A: Yes. Firebase security rules ensure users can only access their own data. Fee
 
 ---
 
-**Last Updated**: November 27, 2024  
-**Version**: 1.0.0  
-**Status**: ✅ Production Ready
